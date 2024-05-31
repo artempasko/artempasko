@@ -1,8 +1,8 @@
-<div id="header" style="text-align: center;">
+<div id="header" align="center">
     <h1>Artem Pasko</h1>
     <h3>Full Stack Developer from Belarus</h3>
 </div>
-<div id="social" style="text-align: center;">
+<div id="social" align="center">
     <a href="https://www.linkedin.com/in/artempasko/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
