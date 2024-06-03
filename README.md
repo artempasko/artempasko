@@ -38,5 +38,4 @@
 </div>
 
 ## Summary
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artempasko&theme=github_dark)
